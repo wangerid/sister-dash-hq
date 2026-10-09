@@ -1,0 +1,26 @@
+Sister Dash - higher jumps
+
+Extract this whole folder, then open index.html to play.
+
+Hold Space, Up Arrow or W to reach the high boxes. A quick tap still gives
+a short hop. Jump toward a raised box from the side to land on its top;
+jumping directly underneath it opens the box first.
+
+All four characters now jump higher. A fully held jump rises approximately:
+  Older Sister: 169 pixels (5.3 tiles)
+  Younger Sister: 186 pixels (5.8 tiles)
+  Dad: 160 pixels (5.0 tiles)
+  Mom: 172 pixels (5.4 tiles)
+
+The raised carrot/candy boxes are 128 pixels (4 tiles) above their platforms.
+Small and big forms have the same jump height.
+
+Change: js/player.js, PHYS.JUMP_V increased from 700 to 860 pixels/second.
+
+Verification: the actual player, collision, box and pickup logic was simulated
+at the game's fixed 60 Hz update rate. All 29 land-based carrot/candy boxes
+passed with every character in both sizes (232 combinations), including
+opening the box, collecting the item and landing on top. Short hops, coyote
+time, buffered jumps and drop-through controls also passed. Underwater
+movement produced identical trajectories to the original game. These are
+automated physics checks, not a complete browser playthrough.

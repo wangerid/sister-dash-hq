@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "SDRounded";
+  src: url("art/fonts/Fredoka.ttf") format("truetype");
+  font-weight: 300 700;
+  font-display: swap;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #1b2433;
+}
+
+#wrap {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game {
+  display: block;
+  background: #6FB6F2;
+  outline: none;
+  cursor: pointer;
+}
+
+#fontwarm {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  font-family: "SDRounded", sans-serif;
+  font-weight: 700;
+}
