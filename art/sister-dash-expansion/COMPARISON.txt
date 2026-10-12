@@ -1,0 +1,69 @@
+SPEC(1) COMPARED WITH SPEC(2)
+
+Spec(1) expands the game from seven to ten levels. New artwork in this pack:
+
+Level 4: TREETOP HEIGHTS
+Boss: Drumbeak, the red-crested woodpecker.
+Enemies: squirrel, caterpillar, bee.
+Scenery/props: giant trees, treehouses, leaf platforms with bending states,
+vines, rope bridges, pinecones, bee hives, branch ladder, nest, trunk holes.
+Boss effects: bark chips, falling leaves, dive target and bouncing acorn.
+
+Level 8: STARLIGHT STATION
+Boss: Fuzzmo, the original lime-green and teal fluffy space creature.
+Enemies: purple blob alien, mini UFO, space urchin.
+Scenery/props: stars, planets, Earth, moon, space station, rocket, glass dome,
+asteroids, metal platforms, laser off/warn/on states, boost pad, meteors,
+meteor target, gravity well and space-walk boundary marker.
+Boss effects: static sparks, sneeze star, boing wave, victory fuzzball/saucer.
+Shared round glass helmet overlays are supplied for all four characters;
+scale and position them over the animated heads, including big/small forms.
+
+Level 10: CEMENT CITY
+Boss: Brutus Block, the grumpy cracked cement block.
+Enemies: pigeon, hopping traffic cone, shopping cart; pebble-friend minion.
+Traffic: car, bus and cement mixer truck, each with four animation frames.
+Scenery/props: skyscrapers, cranes, steel girders, construction fences,
+pavement, roads, crosswalk, pedestrian signal red/green/dim states,
+wet cement, falling cement bags, manhole/steam, rooftop air conditioner.
+Boss effects: rubble, cement splash, cracked floor and tiny victory brick.
+UI: three new world badges, skull-and-skyscraper difficulty badge, boss
+portraits, pedestrian indicators, target and vine-grab icon.
+
+CHANGED CHARACTER
+Spec(1) describes the younger sister with blonde pigtails, pink T-shirt and
+black pants. Spec(2) describes loose curls, a purple hoodie and olive cargo
+trousers. This pack supplies a separate pink-outfit variant, small and big,
+with idle/run/jump/duck/swim/cast/hurt/victory poses plus two vine poses.
+The existing purple design is not overwritten.
+
+LEVEL NUMBER MAPPING
+Theme                   Spec(2)   Spec(1)
+Sunny Meadow               1         1
+Crystal Caves              2         2
+Whispering Forest          3         3
+Treetop Heights             -         4  NEW
+Cloud Kingdom              4         5
+Snowy Mountain             5         6
+Coral Reef                 6         7
+Starlight Station          -         8  NEW
+Scorching Desert           7         9
+Cement City                -        10  NEW
+
+The seven existing bosses and themes are reused; a number change does not
+require regenerating them. The underwater flag now belongs to level 7;
+lowGravity belongs to level 8. Update hard-coded theme and asset lookups.
+
+OTHER SPEC DIFFERENCES (NO NEW IMAGE REQUIRED)
+- Candy count increases from two to five per level; reuse existing candy.
+- Level selection changes to ten cards arranged in two rows of five.
+- New vine-swinging, low-gravity, traffic and boss mechanics need game code.
+- Cloud Kingdom time changes 4:00 -> 4:10; desert changes 5:00 -> 5:15.
+  New timers: treetops 4:00, space 5:00, city 5:30.
+- Three checkpoints per level are already present in both specs.
+- Coins, carrots, candy, flags, hearts, crowns and character shots already
+  exist in Spec(2) and can be reused. No new font is required.
+- Spec(1) omits Pip and the detailed painted-art pipeline; Spec(2) includes
+  them. This pack does not remove Pip or replace the existing UI/font.
+- Spec(1) says code-drawn art only for v1. Your explicit request for image
+  assets takes precedence; the new PNGs retain the established painted style.

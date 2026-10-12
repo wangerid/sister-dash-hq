@@ -1,0 +1,209 @@
+{
+  "mode": "built-in imagegen",
+  "jobs": [
+    {
+      "id": "boss-drumbeak",
+      "kind": "boss",
+      "cols": 4,
+      "rows": 5,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game boss. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 5 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Drumbeak, giant friendly-grumpy woodpecker, brilliant red crest, black-and-white striped body, long strong ivory beak, side view facing LEFT. Keep constant character proportions and consistent camera scale; extra victory forms intentionally small. Row1 four idle wing/breath poses. Row2 four peck-dash flying poses beak left. Row3 two warning head-pulled-back poses then two vertical dive beak-down poses. Row4 four dizzy exhausted wing-wiggling poses with beak pointing left, for stuck-in-wood state; no wood attached. Row5 hurt recoil, drumming on invisible trunk, flapping to drop acorns, tiny friendly victory woodpecker.",
+      "transparent": true
+    },
+    {
+      "id": "boss-fuzzmo",
+      "kind": "boss",
+      "cols": 4,
+      "rows": 5,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game boss. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 5 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Fuzzmo, ORIGINAL car-sized round lime-green super-fluffy space creature with teal streaks, long static-flared soft fur, two pointed fluffy ears, shiny round black eyes, two short wobbly antennae ending glowing balls, cheeky wide grin, stubby fluffy legs. Cute silly, side facing LEFT. Keep constant character proportions and consistent camera scale; extra victory forms intentionally small. Row1 four idle breathing poses. Row2 crouching flat bounce anticipation, leaping up, landing squash, round furball tumble. Row3 antennae crackling warning, sneeze anticipation, static spark attack, star sneeze attack. Row4 four dizzy flattened messy-fur seated poses. Row5 hurt recoil, tiny friendly victory fuzzball, tiny fuzzball seated in a small flying saucer, empty small saucer.",
+      "transparent": true
+    },
+    {
+      "id": "boss-brutus-block",
+      "kind": "boss",
+      "cols": 4,
+      "rows": 5,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game boss. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 5 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Brutus Block, huge grumpy grey cement block, thick cracked eyebrows, stubby arms, expressive mouth, original friendly cartoon villain, side facing LEFT. Keep constant character proportions and consistent camera scale; extra victory forms intentionally small. Row1 four idle weight-shift poses. Row2 crouch before slam, jumping slam, quarter-turn tumble, upside-down tumble. Row3 warning eyebrows lowered, warning wobble, rubble-throw arm pose, wet-cement-dripping pose. Row4 four dizzy cracked battered poses with dust, recognizable same block. Row5 hurt recoil, roaring heavily cracked phase-three pose, collapsed rubble pile, tiny friendly victory cement brick.",
+      "transparent": true
+    },
+    {
+      "id": "enemies-treetop",
+      "kind": "enemies",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game enemies. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Row1 four right-facing chestnut squirrel poses: run contact, run passing, run opposite contact, leap. Row2 four right-facing green caterpillar crawling wave poses. Row3 four right-facing gold-and-black bee wingbeat poses with small stinger, grumpy cute eyes. Row4 bee hive intact, hive shaking, falling pinecone, bouncing acorn.",
+      "transparent": true
+    },
+    {
+      "id": "enemies-space",
+      "kind": "enemies",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game enemies. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Row1 four right-facing small purple jelly blob alien poses idle, squash, high hop, landing. Row2 four small silver mini UFO hover poses with glowing cyan rim and glass dome, then pellet-release pose in last cell. Row3 four spiky purple space-urchin slow rotation poses with grumpy eyes. Row4 glowing star pellet, blue static spark orb, yellow sneeze star, soft circular boing shockwave.",
+      "transparent": true
+    },
+    {
+      "id": "enemies-city",
+      "kind": "enemies",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game enemies. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Row1 four right-facing grey city pigeon poses perched, wings up, wings horizontal, dive. Row2 four orange white-striped traffic-cone enemy poses idle, squash, hop, land with cute grumpy face. Row3 four right-facing runaway shopping cart wheel-rotation poses, metal wire basket, no contents. Row4 four small grumpy hopping cement-block minion poses idle, crouch, hop, land.",
+      "transparent": true
+    },
+    {
+      "id": "bg-treetop-far",
+      "kind": "background",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game background. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark. Wide 16:9 horizontally repeating distant panorama for giant warm-brown tree trunks and branches, emerald leaves, distant hazy forest canopy, golden sunlight. No playable foreground floor, characters, enemies, interface or text. Calm detailed upper area, subdued lower half for gameplay readability. Match left and right border colour and forms for horizontal scrolling.",
+      "transparent": false
+    },
+    {
+      "id": "bg-treetop-mid",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT parallax layer, not a contact sheet: immense tree trunks receding into foliage with small wooden treehouses, branches at varying heights and dappled light; large clear gaps between trunks. Side view, horizontal scrolling, no ground across entire image, no characters. Layer must be transparent between forms.",
+      "transparent": true
+    },
+    {
+      "id": "bg-treetop-near",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT foreground decorative parallax layer, not a contact sheet: hanging leaves, branch tips, a few trailing vines along top and sides; center and bottom largely empty. Do not fill transparent background. Side-view game scenery, horizontally repeating.",
+      "transparent": true
+    },
+    {
+      "id": "bg-space-far",
+      "kind": "background",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game background. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark. Wide 16:9 horizontally repeating distant panorama for deep indigo outer space, stars, colourful planets and distant Earth, moon and silver-blue space station. No playable foreground floor, characters, enemies, interface or text. Calm detailed upper area, subdued lower half for gameplay readability. Match left and right border colour and forms for horizontal scrolling.",
+      "transparent": false
+    },
+    {
+      "id": "bg-space-mid",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT parallax layer, not a contact sheet: distant lunar ridges and a space station with docking tubes, a rocket and a glass moon dome; mostly open transparent sky. Side view, horizontal scrolling, no ground across entire image, no characters. Layer must be transparent between forms.",
+      "transparent": true
+    },
+    {
+      "id": "bg-space-near",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT foreground decorative parallax layer, not a contact sheet: a few isolated floating asteroids at edges, thin station framework corners and tiny twinkling stars; center largely empty. Do not fill transparent background. Side-view game scenery, horizontally repeating.",
+      "transparent": true
+    },
+    {
+      "id": "bg-city-far",
+      "kind": "background",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game background. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark. Wide 16:9 horizontally repeating distant panorama for grey blue cement city, distant skyscrapers and cranes, warm afternoon sky, no readable signs. No playable foreground floor, characters, enemies, interface or text. Calm detailed upper area, subdued lower half for gameplay readability. Match left and right border colour and forms for horizontal scrolling.",
+      "transparent": false
+    },
+    {
+      "id": "bg-city-mid",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT parallax layer, not a contact sheet: middle-distance building facades, rooftop AC units, construction cranes and scaffolding; pale subdued blue grey colours. Side view, horizontal scrolling, no ground across entire image, no characters. Layer must be transparent between forms.",
+      "transparent": true
+    },
+    {
+      "id": "bg-city-near",
+      "kind": "layer",
+      "cols": 1,
+      "rows": 1,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game layer. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 1 columns by 1 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. One wide 16:9 TRANSPARENT foreground decorative parallax layer, not a contact sheet: widely spaced street lamps, fence posts and crane cable silhouettes, muted dark slate; center largely open. Do not fill transparent background. Side-view game scenery, horizontally repeating.",
+      "transparent": true
+    },
+    {
+      "id": "tiles-treetop",
+      "kind": "tiles",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game tiles. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Flat side-view modular square terrain tiles made of thick warm bark branches, cut wood, leafy green tops. Orthographic, no perspective. Each tile fills its own square cell, transparent gutters separate tiles. Same flat top edge for all solid blocks. The 16 cells in row order are: solid ground block, alternate ground block, wooden or themed crate, golden surprise box with a single question-mark symbol, rainbow candy surprise box with question-mark symbol, cracked breakable block, empty used box, thin platform; then straight branch cap, left branch end, right branch end, hanging leaves left, hanging leaves right, green leaf platform, rope bridge plank, trunk knothole. Symbol exceptions: question marks on the two surprise boxes only.",
+      "transparent": true
+    },
+    {
+      "id": "tiles-space",
+      "kind": "tiles",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game tiles. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Flat side-view modular square terrain tiles made of silver-blue metal station panels and grey cratered moon rock, cyan lights. Orthographic, no perspective. Each tile fills its own square cell, transparent gutters separate tiles. Same flat top edge for all solid blocks. The 16 cells in row order are: solid ground block, alternate ground block, wooden or themed crate, golden surprise box with a single question-mark symbol, rainbow candy surprise box with question-mark symbol, cracked breakable block, empty used box, thin platform; then moon-rock cap, metal platform left edge, metal platform right edge, hanging cable left, hanging cable right, cyan boost pad, asteroid platform, cracked moon rock. Symbol exceptions: question marks on the two surprise boxes only.",
+      "transparent": true
+    },
+    {
+      "id": "tiles-city",
+      "kind": "tiles",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game tiles. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Flat side-view modular square terrain tiles made of grey cement pavement, concrete masonry, steel and brown construction crates. Orthographic, no perspective. Each tile fills its own square cell, transparent gutters separate tiles. Same flat top edge for all solid blocks. The 16 cells in row order are: solid ground block, alternate ground block, wooden or themed crate, golden surprise box with a single question-mark symbol, rainbow candy surprise box with question-mark symbol, cracked breakable block, empty used box, thin platform; then pavement cap, curb left edge, curb right edge, scaffolding joint, chain segment, steel girder platform, asphalt road, zebra-crosswalk road. Symbol exceptions: question marks on the two surprise boxes only.",
+      "transparent": true
+    },
+    {
+      "id": "props-treetop",
+      "kind": "props",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game props. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. 16 isolated props row order: huge leaf platform level, same leaf bending mildly, same leaf bending down fully, flexible hanging vine straight; vine curving left, vine curving right, rope bridge straight with wooden planks, rope bridge sagging; small treehouse front side-view with open doorway, short branch ladder, woodpecker nest, large trunk knothole; bark chips falling cluster, leaves falling cluster, pinecone falling, red circular dive target ring. Transparent, no ground shadow.",
+      "transparent": true
+    },
+    {
+      "id": "props-space",
+      "kind": "props",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game props. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. 16 isolated props row order: drifting cratered asteroid platform, alternate asteroid platform, silver station platform, clear round glass moon dome with no floor; magenta laser gate emitter pair beam OFF, same gate faint flickering warning, same gate strong pink beam ON, glowing cyan boost pad; meteor with diagonal orange trail, red meteor impact target ring, purple spiral gravity well, star-shaped space-walk boundary marker; rocket side view, blue electric spark orb, yellow star pellet, round glass SPACE HELMET OVERLAY with clear transparent center and silver collar (no head).",
+      "transparent": true
+    },
+    {
+      "id": "props-city",
+      "kind": "props",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game props. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. 16 isolated props row order: pedestrian signal on pole red standing figure lit, same pedestrian signal green walking figure lit, same signal green dim flash, zebra-crosswalk strip; glossy wet cement puddle, steel crane girder hanging from two cables, upright falling cement bag with no text, round manhole cover shut; same manhole cover popped up with steam, construction fence intact, same fence collapsed, air-conditioning rooftop box; small grey rubble chunks cluster, concrete splash, cracked cement floor patch, orange crane hook.",
+      "transparent": true
+    },
+    {
+      "id": "traffic-city",
+      "kind": "traffic",
+      "cols": 4,
+      "rows": 3,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game traffic. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 3 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. EXACT four columns by three rows. Each vehicle side-on facing RIGHT, full wheels and body, no ground or text. Row1 four wheel-animation poses of a cute blue compact car. Row2 four wheel-animation poses of a yellow city bus. Row3 four poses of an orange-and-white cement mixer truck with rotating barrel. Keep each vehicle consistent within row, bus and truck visibly longer than car.",
+      "transparent": true
+    },
+    {
+      "id": "younger-pink",
+      "kind": "character",
+      "cols": 8,
+      "rows": 5,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game character. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 8 columns by 5 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. Same character in all poses: cool adventurous nine-year-old girl, blonde PIGTAILS, pink short-sleeve T-SHIRT, BLACK PANTS, purple sneakers, large green eyes, freckles. Full body side view facing RIGHT, constant scale, feet baseline within every cell. EXACT 8 columns and 5 rows, every cell occupied. Row1 eight idle breathing/look poses. Row2 eight running cycle poses. Row3 jump rise, jump peak, jump fall, crouch1, crouch2, shoot1, shoot2, shoot3. Row4 six swim-stroke poses, hurt recoil, recovering. Row5 four victory arms-up poses, vine-grab pose, vine-swing pose, helmet-ready neutral pose without helmet, portrait bust.",
+      "transparent": true
+    },
+    {
+      "id": "ui-expansion",
+      "kind": "ui",
+      "cols": 4,
+      "rows": 4,
+      "prompt": "Use case: stylized-concept. Asset type: Sister Dash 2D platform game ui. Stylised 3D animated-film game art, soft painterly shading, warm light upper left and cool blue fill, rounded friendly adventurous forms, saturated natural colours, fine warm dark outlines, clean readable silhouettes. No text, labels, logos, grid lines, numbers or watermark.  EXACT uniform 4 columns by 4 rows contact sheet. Every cell same size, one isolated sprite per cell, generous transparent gutters, no overlaps, all fully inside their cells. Read cells left to right then top to bottom. 16 isolated game UI icons with no letters or numbers: row1 Treetop level badge with leafy branch, Starlight level badge with moon planet, Cement City level badge with skyline, extremely-hard badge skull-and-skyscraper. Row2 clear glass space helmet front, same side right, same tilted upward, same tilted downward, all empty transparent centers with silver collars. Row3 green walking pedestrian figure, red standing pedestrian figure, red dive target, green vine grab hand icon. Row4 small woodpecker boss portrait red crest, fluffy lime-teal Fuzzmo boss portrait, grumpy cement Brutus boss portrait, grey rooftop flag-base manhole. Icons must be clearly separated.",
+      "transparent": true
+    },
+    {
+      "id": "props-treetop-extra",
+      "kind": "props",
+      "cols": 2,
+      "rows": 2,
+      "transparent": true,
+      "prompt": "Stylised 3D animated-film game sprites, painterly warm light, rounded shapes. Genuine transparent background. EXACT 2 columns by 2 rows, four separate props fully inside equal cells with generous gaps, no labels. Top left: short climbable ladder made of branches, six wooden rungs, full ladder isolated. Top right: huge upright tree trunk section with a woodpecker beak-sized dent on LEFT side, leafy top. Bottom left: huge upright tree trunk section with a beak-sized dent on RIGHT side, leafy top. Bottom right: small EMPTY cozy woodpecker nest on a branch, no bird. Side-view 2D platform game, no scenery or ground."
+    }
+  ],
+  "corrections": {
+    "character": "Edit this sprite sheet only in row 3 columns 6,7,8: remove all guns and muzzle flashes. Replace these with three empty-handed magical bubble-casting poses, right arm outstretched, no held object and no attached projectile. Also remove water splash backdrops from swimming poses; retain the girl. Preserve EXACT 8 columns by 5 rows, all other character poses and blonde pigtails, pink T-shirt, black trousers, purple shoes, proportions, painted style. Genuine transparent background. No new objects. Keep all sprites within separate equal cells.",
+    "city": "Stylised painterly 3D animated-film MODERN CITY foreground parallax layer, wide 16:9. Actual transparent background. Sparse silhouettes at extreme left and right edges: sleek modern grey steel LED streetlight poles, steel wire construction fencing, yellow tower-crane steel cable and hook. NO wooden beams, NO ropes, NO lanterns, NO medieval objects, NO buildings, no floor across frame. Empty transparent center 80% of width. Dark slate grey, warm afternoon edge light, clean edges. No text."
+  }
+}

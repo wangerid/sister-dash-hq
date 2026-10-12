@@ -1,0 +1,3 @@
+Validated 28 sprite sheets, 315 occupied frames and 9 background layers.
+All PNGs decode; all frame coordinates are in bounds; every frame contains visible pixels.
+This validates artwork and metadata, not new level gameplay.
